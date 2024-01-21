@@ -1,1 +1,1 @@
-## Proximamente Detalles..
+# Proximamente..
