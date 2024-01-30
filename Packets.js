@@ -1,6 +1,6 @@
 (script = registerScript({
     name: "PacketCounter",
-    authors: ["CzechHek"],
+    authors: ["NP"],
     version: "1.0"
 })).import("Core.lib");
 
